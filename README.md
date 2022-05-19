@@ -26,7 +26,7 @@
 <h3>Short sweet headline with 🎇🎉</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/pyfinance/main/images/screenshot.png" alt="pyfinance Demo" style="width:100%">
+  <img src= "images/screenshot.png" alt="pyfinance Demo" style="width:100%">
   <br/>
   <figcaption>pyfinance screenshot</figcaption>
 </figure>
