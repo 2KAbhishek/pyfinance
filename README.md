@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/pyfinance">pyfinance</a></h1>
+<h1><a href="https://2kabhishek.github.io/pyfinance">PyFinance</a></h1>
 
 <a href="https://github.com/2KAbhishek/pyfinance/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/pyfinance?style=plastic&color=white&label=License"> </a>
@@ -23,29 +23,23 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "images/screenshot.png" alt="pyfinance Demo" style="width:100%">
-  <br/>
-  <figcaption>pyfinance screenshot</figcaption>
-</figure>
+<h3>Personal portfolio analysis 📈💰</h3>
 
 </div>
 
 ## What is this
 
-pyfinance is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Personal portfolio analysis with Python and Alpaca API.
 
 ## Inspiration
 
-pyfinance was inspired by `<reason/idea>`.
+Wanted to try out the Alpaca API and use it to analyze a portfolio.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have the `Alpaca API key` and have `python` and `jupyter-notebook` installed.
 
 ## Getting pyfinance
 
@@ -54,26 +48,12 @@ To install pyfinance, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/pyfinance
 cd pyfinance
-<install_command>
 ```
 
 ## Using pyfinance
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
+Explore the dataset
 
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
 
 ## How it was built
 
