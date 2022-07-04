@@ -30,6 +30,7 @@
 ## What is this
 
 Personal portfolio analysis with Python and Alpaca API.
+Contains a monte carlo simulation script to predict the returns of a portfolio.
 
 ## Inspiration
 
@@ -52,33 +53,24 @@ cd pyfinance
 
 ## Using pyfinance
 
-Explore the dataset
-
+Explore the dataset and the notebook, tweak parameters and run the notebook.
 
 ## How it was built
 
-pyfinance was built using `<tech/library>`
+pyfinance was built using `jupyter-notebook` and `python`.
 
 ## Challenges faced
 
-While building pyfinance the main challenges were `<issue/difficulty>`
+Understanding different financial instruments and terminology was a challenge.
 
 ## What I learned
 
-While building pyfinance I `<learned/accomplished>` about `<learning/accomplishment>`
+- Alpaca API and the Alpaca Trading Platform.
+- Monte Carlo simulation.
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+Some sections are incomplete.
 
 Hit the ⭐ button if you found this useful.
 
