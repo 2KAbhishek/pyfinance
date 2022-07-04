@@ -42,6 +42,13 @@ Before you begin, ensure you have met the following requirements:
 
 - You have the `Alpaca API key` and have `python` and `jupyter-notebook` installed.
 
+Add the API keys to `.env` file
+
+```bash
+APCA_API_KEY_ID=SECRET
+APCA_API_SECRET_KEY=SECRET
+```
+
 ## Getting pyfinance
 
 To install pyfinance, follow these steps:
